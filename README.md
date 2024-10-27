@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **a super app at ELEVEN (NASTAP)**
 
-- 👯 I’m currently working on **an Uber Clone**
+- 👯 I’m currently working on **my FYP**
 
 - 💬 Ask me about **Android, MERN**
 
